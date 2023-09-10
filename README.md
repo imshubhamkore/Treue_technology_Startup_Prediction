@@ -1,7 +1,8 @@
 # treue_technology_Startup_Prediction
 ## Startup Success Prediction using Machine Learning
 
-![Startup Success](startup_success.png)
+![Startup Success](![images](https://github.com/imshubhamkore/treue_technology_Startup_Prediction/assets/128685230/e22fc82f-7f41-4d21-aed9-cb5ff3fed6d3)
+
 
 ## Overview
 
